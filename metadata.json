@@ -1,0 +1,41 @@
+{
+  "name": "POPHEADZ #7643",
+  "symbol": "POP",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://arweave.net/oLhHlk8YyON7L3sKMls0C-S-QOIViYafsA9DDZobH5Q?ext=gif",
+  "attributes": [
+{
+      "trait_type": "Stern",
+      "value": "Tengu-Hachiman"
+    },
+    {
+      "trait_type": "Bow",
+      "value": "Haetae-Ruby"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Tengu-Hachiman"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Tengu-Hachiman"
+    },
+    {
+      "trait_type": "Categories",
+      "value": "Ancestral"
+    },
+    {
+      "trait_type": "FX",
+      "value": "Petals-Angelic"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
